@@ -1,0 +1,27 @@
+- Strix Transfer Updates
+	- Remove animations
+	- Remove bloatware
+	- Appearance
+		- Dark mode
+		- 125% zoom level for laptop
+		- 100% for monitor
+	- Battery cap at 80% (*Asus battery care mode*)
+	- Installation
+		- Ninite multi-installer
+			- Browser: Chrome, Brave
+				- Extensions (in a repo)
+			- Softwares
+				- Blender: transfer the startup, preference files, and also the addons.
+				- Unity Hub
+				- VSC
+					- need the font, *inconsolata for powerline*
+					- Settings Sync (already there, and backup also there in preferences repo)
+			- Music: ~~Spotify~~ (use browser instead)
+			- Social: ~~Zoom~~  (use browser instead)
+			- Misc: Winrar
+			- Note-taking: Obsidian
+			- Gaming: Steam, Epic games
+	- Set each individual app
+		- Steam: steam optimization settings, and notification settings
+	- Settings
+		- enable activate window on hover.
